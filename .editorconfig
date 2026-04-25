@@ -1,0 +1,25 @@
+# Top-level EditorConfig file
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
+indent_style = tab
+indent_size = tab
+tab_width = 2
+
+# Markdown needs trailing whitespace for soft line breaks
+[*.md]
+trim_trailing_whitespace = false
+
+# Makefiles must use tabs, not just prefer them
+[Makefile]
+indent_style = tab
+
+# Optional overrides if some tools expect spaces (e.g., YAML)
+# Matches multiple files with brace expansion notation
+[*.{yml,yaml}]		
+indent_style = space
+indent_size = 2

@@ -1,0 +1,9 @@
+{
+	"editor.fontFamily": "'TX-02-EDIT', Consolas, 'Courier New', monospace",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"editor.tabSize": 2,
+	"python.analysis.autoImportCompletions": true,
+	"python.analysis.typeCheckingMode": "standard"
+
+}
