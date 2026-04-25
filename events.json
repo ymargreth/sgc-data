@@ -1,0 +1,28 @@
+[
+	{
+		"name": "Summit Day Groove III",
+		"date": "2026-05-23",
+		"city": "Graubünden",
+		"location": "Schützenhaus Grüsch",
+		"links": {
+			"ticket": "https://www.ticketino.com/en/OrganizerShop/6716480/event/summit-day-groove-iii/214600",
+			"map": "https://maps.example.com/graubunden",
+			"goabase": "https://goabase.net/party/summit-day-groove-iii",
+			"facebook": "https://facebook.com/events/summit-day-groove-iii",
+			"flyer": "https://example.com/flyer.jpg"
+		}
+	},
+	{
+		"name": "Alpine Whispers 2026",
+		"date": "2026-08-29",
+		"city": "Graubünden",
+		"location": "Alte Schwendi Klosters",
+		"links": {
+			"ticket": "https://ticketino.com/tickets",
+			"map": "https://maps.example.com/graubunden",
+			"goabase": "https://goabase.net/party/alpine-whispers-2026",
+			"facebook": "https://facebook.com/events/alpine-whispers-2026",
+			"flyer": "https://example.com/flyer.jpg"
+		}
+	}
+]
