@@ -1,17 +1,17 @@
 [
 	{
 		"title": "Instagram",
-		"onClick": "https://instagram.com/summit_groove_collective",
+		"link": "https://instagram.com/summit_groove_collective",
 		"icon": "instagram.png"
 	},
 	{
 		"title": "WhatsApp",
-		"onClick": "https://chat.whatsapp.com/JogrBStLo3l1PCEveBvOGG",
+		"link": "https://chat.whatsapp.com/JogrBStLo3l1PCEveBvOGG",
 		"icon": "whatsapp.png"
 	},
 	{
 		"title": "E-Mail",
-		"onClick": "mailto:info@summitgroove.ch",
+		"link": "mailto:info@summitgroove.ch",
 		"icon": "email.png"
 	}
 ]
