@@ -1,15 +1,13 @@
 [
 	{
-		"name": "Summit Day Groove III",
+		"name": "Summit Day Groove Vol. III",
 		"date": "2026-05-23",
 		"city": "Graubünden",
 		"location": "Schützenhaus Grüsch",
 		"links": {
 			"ticket": "https://www.ticketino.com/en/OrganizerShop/6716480/event/summit-day-groove-iii/214600",
-			"map": "https://maps.example.com/graubunden",
-			"goabase": "https://goabase.net/party/summit-day-groove-iii",
-			"facebook": "https://facebook.com/events/summit-day-groove-iii",
-			"flyer": "https://example.com/flyer.jpg"
+			"map": "https://www.google.com/maps/dir/?api=1&destination=46.972019,9.645199",
+			"goabase": "https://www.goabase.net/party/summit-day-groove-iii/117525"
 		}
 	},
 	{
