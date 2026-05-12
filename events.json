@@ -1,6 +1,7 @@
 [
 	{
 		"name": "Summit Day Groove Vol. III",
+		"visible": true,
 		"date": "2026-05-23",
 		"city": "Graubünden",
 		"location": "Schützenhaus Grüsch",
@@ -12,6 +13,7 @@
 	},
 	{
 		"name": "Alpine Whispers 2026",
+		"visible": false,
 		"date": "2026-08-29",
 		"city": "Graubünden",
 		"location": "Alte Schwendi Klosters",
