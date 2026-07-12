@@ -13,9 +13,21 @@
 		}
 	},
 	{
-		"name": "Alpine Whispers 2026",
+		"name": "Summit Day Groove Vol. IV",
+		"visible": true,
+		"date": "2026-09-26",
+		"city": "Graubünden",
+		"location": "Schützenhaus Grüsch",
+		"links": {
+			"ticket": "https://www.ticketino.com/de/Event/Summit-Day-Groove-IV/216209",
+			"map": "https://www.google.com/maps/dir/?api=1&destination=46.972019,9.645199",
+			"flyer": "https://cloud.summitgroove.ch/s/NZ92FpF52iTyKei"
+		}
+	},
+	{
+		"name": "Alpine Whispers 2027",
 		"visible": false,
-		"date": "2026-08-29",
+		"date": "2027-08-29",
 		"city": "Serneus, Graubünden",
 		"location": "Chlei Schwendi",
 		"links": {
